@@ -1,7 +1,15 @@
-Hi, I am Priyam Guha
-I am interested in things that can bring change in our everyday Lives with the help of technology
-I’m currently learning Javascript, Artificial Intelligence
-I’m looking to collaborate on AI, Image Processing Topics
+Hi, I am Priyam Guha.
+
+
+I am interested in things that can bring change in our everyday Lives with the help of technology.
+
+
+I’m currently learning Javascript, Artificial Intelligence.
+
+
+I’m looking to collaborate on AI, Image Processing Topics.
+
+
 Mail me at priyamguha@gmail.com to reach out to me!
 
 <!---
